@@ -106,211 +106,211 @@ Below are commands for WillowSMP and what they do.
 
 ### Enchantments List
 
-ANTHROPOMORPHISM
+ANTHROPOMORPHISM:
 Uses Cobblestone to create projectiles while right clicking, left clicking fires all projectiles
 
-ARBORIST
+ARBORIST:
 Drops more apples, sticks and saplings when used on leaves
 
-BIND 
+BIND:
 Prevents items from dropping uppon death, respawning with the player
 
-BLAZES CURSE
+BLAZES CURSE:
 Makes the player immune to lava while making them take damage in Water
 
-BLIZZARD
+BLIZZARD:
 Slows down mobs around the target
 
-BOUNCE
+BOUNCE:
 Shoots the wearer into space if they jump on slime
 
-BURST
+BURST:
 Shoots many projectiles at once
 
-COMBUSTION
+COMBUSTION:
 Whatever hits the wearer is on fire after that
 
-CONVERSION
+CONVERSION:
 Converts XP to health when right clicking and sneaking
 
-DECAPITATION
+DECAPITATION:
 Has a chance of dropping the head of the mob after it was killed
 
-ETHERAL
+ETHERAL:
 Makes tools unbreakable
 
-EXTRACTION
+EXTRACTION:
 Gives you ingots and XP instead of raw ores
 
-FIRE
+FIRE:
 Smelts the block you are mining
 
-FIRESTORM
+FIRESTORM:
 The mobs around the target are lit on fire
 
-FIREWORKS
+FIREWORKS:
 Creates deadly fireworks around the target
 
-FORCE
+FORCE:
 Launches enemy away from you
 
-FROZEN STEP
+FROZEN STEP:
 The original ice walker enchantment
 
-FUSE
+FUSE:
 Primes TNT that was hit
 
-GERMINATION
+GERMINATION:
 
-GLIDE
+GLIDE:
 Slows down your fall when shifting
 
-GLUTTONY
+GLUTTONY:
 Eats for you
 
-GOLD RUSH
+GOLD RUSH:
 Chance of dropping gold nuggets while mining sand
 
-GRAB
+GRAB:
 Grabs Items that you mine instantly into your inventory
 
-GREEN THUMB
+GREEN THUMB:
 Grows the foliage around the player
 
-GUST
+GUST:
 Launches yourself in the air, at the large expense of health
 
-HARVEST
+HARVEST:
 Harvests fully grown crops within a radius when clicked
 
-HASTE
+HASTE:
 Grants the Haste effect for you
 
-ICE ASPECT
+ICE ASPECT:
 Freezes the target
 
-JUMP
+JUMP:
 Grants the effect of leaping
 
-LASER
+LASER:
 Shoots a deadly mining laser The color of the laser can be modified via /lasercol <color>
 
-LEVEL
+LEVEL:
 Grants additional XP
 
-LONG_CAST
+LONG_CAST:
 Makes your fishing rod have x-tra long range
 
-LUMBER
+LUMBER:
 Breaks the entire tree at once
 
-MAGNETISM
+MAGNETISM:
 Slowly attract the items towards you
 
-MEADOR
+MEADOR:
 Jump and Speed in one enchantment
 
-MOW
+MOW:
 Enlargens the range of your shears
 
-MYSTERY FISH
+MYSTERY FISH:
 Chance of fishing living creatures
 
-NETHER STEP
+NETHER STEP:
 Like frozen step, but works on lava
 
-NIGHT_VISION
+NIGHT_VISION:
 Grants night vision on the user
 
-PERSEPHONE
+PERSEPHONE:
 Plants seeds from the players inventory around them
 
-PIERCE
+PIERCE:
 Changes the way the pickaxe breaks blocks. For example it has a 3 blocks horizontal break range or a ore mode, which works like the Vein Miner mod/plugin
 
-PLOUGH
+PLOUGH:
 Ploughs large portions of lands at the same time
 
-POTION
+POTION:
 Grants positive effects on the user when shooting arrows
 
-POTION RESISTANCE
+POTION RESISTANCE:
 Reduces the effect of all potions
 
-QUICK SHOT
+QUICK SHOT:
 Allows to shoot many arrows at once
 
-RAINBOW
+RAINBOW:
 You can get other variants of wool or flowers with the enchantment
 
-RAINBOW SLAM
+RAINBOW SLAM:
 Creates a deadly rainbow spiral that damages the target
 
-REAPER
+REAPER:
 Gives the wither effect on the target
 
-REVEAL
+REVEAL:
 Reveals the postion of nearby ores
 
-SATURATION
+SATURATION:
 Keeps hunger higher than usual, allowing you to walk greater distance at lower food intake
 
-SHORT_CAST
+SHORT_CAST:
 Reduces the range of your fishing rod greatly
 
-SHRED
+SHRED:
 Shreds through stone and creates a lot of lag
 
-SIPHON
+SIPHON:
 Siphons enemy health from the opponent
 
-SONIC SHOCK
+SONIC SHOCK:
 Damages Mobs as you are zooming past them with your elytra
 
-SPECTRAL
+SPECTRAL:
 Unbalanced enchantment that converts blocks to similar blocks (e. g. converts oak planks into spruce planks)
 
-SPEED
+SPEED:
 Gives a bugged speed effect to the user
 
-SPIKES
+SPIKES:
 Damages nearby entities as you jump
 
-SPREAD
+SPREAD:
 Shoots more arrows than usuall at once
 
-STATIONARY
+STATIONARY:
 Negates any knockback effect when attacking mobs, leaving them clueless as to who is attacking
 
-STOCK
+STOCK:
 Refills your slot in hand automagically
 
-STREAM
+STREAM:
 Creates a trail of particles when in flight
 
-SWITCH
+SWITCH:
 Replaces the block you are targetting with the leftmost block in your inventory
 
-TERRAFORMER
+TERRAFORMER:
 Places a lot of blocks at once
 
-TOXIC
+TOXIC:
 Sickens the target making them nauseous and unable to eat
 
-TRACER
+TRACER:
 Guides the arrow to targets and then attacks
 
-TRANSFORMATION
+TRANSFORMATION:
 Has a chance of transforming one mob into another
 
-UNREPAIRABLE
+UNREPAIRABLE:
 Curse that prevents the item from being repaired
 
-VARIETY
+VARIETY:
 Drops other variants of leaves, saplings and logs
 
-VORTEX
+VORTEX:
 Teleports any loot from mobs straight into your inventory
 
-WEIGHT
+WEIGHT:
 Slows you down, but gives you better knockback resistance against enemies
