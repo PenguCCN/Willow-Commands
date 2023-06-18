@@ -20,6 +20,8 @@ Below are commands for WillowSMP and what they do.
 
 /spawn - Teleports you to spawn.
 
+/buy - View server ranks in game.
+
 ## Economy
 
 /shop - Opens the shop GUI.
