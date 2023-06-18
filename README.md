@@ -34,6 +34,12 @@ Below are commands for WillowSMP and what they do.
 
 /baltop - Shows a list of balances for players.
 
+/ah - Opens Auction House.
+
+/ah sell <price> - Sells the item in your hand for the specified price
+
+/ah cancel - Cancels an Auction
+
 ## Vehicles
 
 ### Shops
