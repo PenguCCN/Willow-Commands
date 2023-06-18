@@ -28,6 +28,10 @@ Below are commands for WillowSMP and what they do.
 
 /pay <player> - Pays the specified player.
 
+/bal <player> - Shows a players balance.
+
+/baltop - Shows a list of balances for players.
+
 ## Vehicles
 
 ### Shops
