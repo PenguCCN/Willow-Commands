@@ -22,6 +22,8 @@ Below are commands for WillowSMP and what they do.
 
 /buy - View server ranks in game.
 
+/backpack - Open your backpack.
+
 ## Economy
 
 /shop - Opens the shop GUI.
